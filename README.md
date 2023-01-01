@@ -16,11 +16,16 @@ To participate in this project, you will need a working knowledge of machine lea
 ## How to Contribute
 There are many ways you can contribute to this project. Some possible contributions include:
 
-## Implementing and testing new model architectures
+Implementing and testing new model architectures
+
 Developing and implementing new training procedures
+
 Enhancing the model's ability to generate high-quality, coherent videos
+
 Adding support for additional video formats and resolutions
+
 Developing tools and interfaces for interacting with the model
+
 If you are interested in contributing to this project, please reach out to the project maintainers or open an issue to discuss your ideas.
 
 ## License
